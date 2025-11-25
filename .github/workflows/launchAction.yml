@@ -1,0 +1,9 @@
+
+name: Call the action
+on: workflow_dispatch
+
+jobs:
+  test-action:
+    uses: .github/actions/action2
+        
+
