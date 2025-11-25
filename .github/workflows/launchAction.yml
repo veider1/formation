@@ -4,6 +4,6 @@ on: workflow_dispatch
 
 jobs:
   test-action:
-    uses: .github/actions/action2
+    uses: .github/actions/test
         
 
